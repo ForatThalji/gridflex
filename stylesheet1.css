@@ -1,0 +1,23 @@
+.container{
+    width:80%;
+    height: 500px;
+    background-color: rgb(175, 213, 20);
+    border-radius: 40px;
+    margin: auto;
+}
+.image{
+    width: 70px;
+    border-radius: 25px;
+    margin: 20px;
+}
+.info{
+    display: flex;
+}
+.information{
+    margin-top:30px;
+    
+}
+body{
+    background-color: rgb(30, 217, 217);
+   
+}

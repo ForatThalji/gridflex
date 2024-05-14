@@ -1,0 +1,90 @@
+.sec1{
+    background-color: greenyellow;
+    text-align: center;
+    color: white;
+    margin: 3px;
+    font-size: larger;
+
+}
+.section2{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 100px ;
+    
+    
+}
+.sec2{
+  
+    color: white;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    text-align: center;
+    
+    
+}
+.sec22{
+    background-color: rgb(183, 187, 197);
+    height: 50px;
+    
+}
+.sec23{
+    display:flex;
+    flex:1 0 200px;
+    flex-direction: row;
+    background-color: rgb(22, 129, 86);
+    height: 50px;
+}
+.sec33{
+    display:flex;
+    flex-direction: row;
+    background-color: rgb(167, 114, 106);
+    height: 70px;
+
+}
+.sec34{
+    display:flex;
+    flex-direction: row;
+    background-color: rgb(110, 133, 124);
+    height: 30px;
+   
+}
+.sec3{
+    color: white;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    text-align: center;
+
+}
+.section4{
+    display: flex;
+    text-align: center;
+    color: white;
+    font-size: larger;
+    margin: 3px;
+    height: 40px;
+
+}
+.sec4{
+    flex-direction: column;
+    width: 50%;
+    background-color: rgb(20, 72, 121);
+    text-align: center;
+}
+.sec5{
+    flex-direction: column;
+    width: 50%;
+   margin-left: 3px;
+    background-color: rgb(138, 8, 107);
+    text-align: center;
+}
+.Footer{
+    
+    text-align: center;
+    color: white;
+    font-size: larger;
+    margin: 3px;
+    background-color: rgb(10, 63, 237);
+
+}

@@ -1,0 +1,65 @@
+.container{
+    width: 80%;
+    height: 100%;
+    background-color: rgb(20, 209, 243);
+        
+
+}
+
+.Header,.Footer{
+    display: grid;
+    width: 100%;
+    height: 70px;
+    background-color: rgb(22, 145, 145);
+
+
+}
+ p{
+    text-align: center;
+    color: white;
+    font-size: larger;
+    
+}
+.asideContainer{
+    display: grid;
+    grid-template-columns: 1fr  1fr ;
+    align-content:right;
+    height: 50%;
+    width: 100%;
+    background-color: rgb(223, 166, 21);
+    margin-top: 10px;
+    margin-bottom: 10px;
+  
+
+} 
+.Aside{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(15, 188, 21);
+    
+      
+
+}
+.boxes{  
+    display: flex;
+    flex-direction: row;
+   
+    margin-top: auto;
+}
+.box{
+    width: 72px;
+    height: 72px;
+    color: white;
+    margin: 8px;
+    text-align: center;
+    border: 1px  #000000;
+    background-color: rgb(224, 224, 24);
+    display: grid;
+    
+}
+
+ .Artical{
+    display: flex;
+    flex-direction: column;
+ }
+
